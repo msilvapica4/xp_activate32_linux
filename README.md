@@ -11,7 +11,9 @@ This page contains important information: https://github.com/UMSKT/writeups/blob
 ## Usage
 
 After downloading the file xp_activate32_linux.c, compile it as usual:
+```bash
 gcc xp_activate32_linux.c -o xp_activate32_linux
+```
 The sintaxe is:
 ```bash
 $ xp_activate32_linux 'IDENTIFICATION ID'
