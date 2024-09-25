@@ -21,7 +21,7 @@ $ xp_activate32_linux 'IDENTIFICATION ID'
 and the program returns the CONFIRMATION ID on the shell window.
 
 ## Screenshots
-![step1](./step1.png)
-![step2](./step2.png)
-![step3](./step3.png)
-![step4](./step4.png)
+![step1](./screenshots/step1.png)
+![step2](./screenshots/step2.png)
+![step3](./screenshots/step3.png)
+![step4](./screenshots/step4.png)
