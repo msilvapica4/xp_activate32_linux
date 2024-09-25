@@ -7,3 +7,13 @@ and was I did. With some modifications in this code, I did this shit work fine o
 I don't know whether this code will be useful or not, but here you go.
 I'm just a beginner programmer, all the merit must be given to the guys who wrote the original code, that I found on 'https://archive.org/details/xp_activate32_src'
 This page contains important information: https://github.com/UMSKT/writeups/blob/main/ConfID.md
+
+## Usage
+
+After downloading the file xp_activate32_linux.c, compile it as usual:
+gcc xp_activate32_linux.c -o xp_activate32_linux
+The sintaxe is:
+```bash
+$ xp_activate32_linux 'IDENTIFICATION ID'
+```
+and the program returns the CONFIRMATION ID on the shell window.
